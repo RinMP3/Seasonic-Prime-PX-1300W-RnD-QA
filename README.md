@@ -23,7 +23,7 @@
 ### Test Rig & Methodology
 
 * **CPU:** AMD Ryzen 7 5800X (Overclocked, PPT 124W)
-* **GPU:** NVIDIA GeForce RTX Series (TDP 146W)
+* **GPU:** NVIDIA GeForce RTX 5060 (TDP 146W)
 * **Total System Load:** `~270W` Continuous (`~20.8%` Nominal Load)
 * **Instrumentation:** UNI-T UT320D Thermometer, True RMS DMM, OCCT v12+
 
