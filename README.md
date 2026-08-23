@@ -85,3 +85,20 @@ The **Seasonic PRIME PX-1300 (SSR-1300PD)** platform exhibits benchmark electric
 <img width="2560" height="1920" alt="photo_29_2026-08-23_18-39-07" src="https://github.com/user-attachments/assets/61084627-a24d-455f-a043-8b8a4e9b2b24" />
 </details>
 
+<details>
+  <summary><b> Thermal Logs</b></summary>
+  <br>
+<img width="4032" height="3024" alt="Hybrid_ON_OCCT" src="https://github.com/user-attachments/assets/e65e572f-8f4c-4c8d-8bf4-c9cc8bbf1a17" />
+<img width="4032" height="3024" alt="Hybrid_ON_Thermometer" src="https://github.com/user-attachments/assets/a05b25d9-641e-49c8-a599-cf29fdec9e7b" />
+</details>
+
+<details>
+  <summary><b> DMM & OCCT Logs</b></summary>
+  <br>
+  <img width="696" height="355" alt="OCCT_Voltage" src="https://github.com/user-attachments/assets/6370151b-6aa9-4302-bdb1-dfc0780c6685" />
+  <img width="4032" height="3024" alt="Molex_4_Pin" src="https://github.com/user-attachments/assets/752589c3-21d9-41d6-938b-7e11de8d230a" />
+  <img width="4032" height="3024" alt="5V" src="https://github.com/user-attachments/assets/f1865820-3274-4972-971f-6e873b418ef3" />
+  <img width="4032" height="3024" alt="12V" src="https://github.com/user-attachments/assets/e8028d96-1bf5-40a1-845b-0c5f68118e0b" />
+</details>
+
+
